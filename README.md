@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://th.bing.com/th/id/R.76f0694bcd1b4a14a42b81c422222dba?rik=fxR2Yw8i2rR0Tg&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2fcjdowner%2fcryptocurrency%2f512%2fQiwi-icon.png&ehk=V0fZDF5gmBHZQDOSL66pdBauimIQvpxnyKYRwDw%2fncA%3d&risl=&pid=ImgRaw&r=0](https://hypebucks.io/wp-content/uploads/2023/05/1111.png)" alt="logo" width="205" height="auto" rounded-full/>
+  <img src="https://hypebucks.io/wp-content/uploads/2023/05/1111.png" alt="logo" width="205" height="auto" rounded-full/>
   
   <h1>Lottery Draw DApp with NEXT.JS</h1>
   
