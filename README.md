@@ -1,0 +1,2 @@
+# Lottery
+HypeBucks Lottery
